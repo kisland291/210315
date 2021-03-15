@@ -1,5 +1,5 @@
 # 哈兔圖庫
-將島民上傳的哈兔圖包 分享到github
+將島民上傳的哈兔圖包 上傳到github
 
 #### [首頁](https://kisland291.github.io/210315/)
 
